@@ -1,0 +1,111 @@
+  
+keyboard_allowmmf 1
+
+//Set console variables
+console_position 15 50
+console_color 255 255 0 0
+console_displayactivity 1
+console_fadedelay 3500
+console_chatopen 1
+console_screendir screenshots
+
+//Set game variables
+game_forceambientlight 0
+game_ambientlight 255 120 120 120
+game_gamma 50
+game_allowsetcursorpos 0
+game_exittype 1
+game_exitprompt 1
+game_allowresize 0
+
+//Set general variables
+//showfps 1
+// FPS Position - Use -75 1 to position it on the top right corner.
+//fps_position 5 5 //top left
+fps_position -75 1 //top right
+
+drawdistance set 10
+//Bind keys
+//Bind syntax is "bind <key> <up> <command>
+// ^ represents control- and ! is alt, eg !1 is alt-1
+bind ^f ffo me
+bind !f ffo stopall
+bind f8 input /target <stnpc>
+bind ^numpad/ input /equipset 20
+bind !f10 drawdistance set 10
+bind ^f10 drawdistance set 1
+bind f11 game_forceambientlight
+bind f12 showfps
+bind sysrq screenshot png hide
+bind ^v paste
+echo Toggle Lighting = F11 (Bump mapping must be off to work properly)
+echo Toggle FPS = F12
+echo DrawDistance Lv 10: Alt-F10
+echo DrawDistance Lv 1: Ctrl-F10
+echo Paste Clipboard = Ctrl-V
+alias rent send @all //ew enter
+alias evor send @all //ew all domain
+alias invall exec inv
+alias unfollow send @all exec unfollow
+alias follv send @others follow layshpoljah
+alias folllat send @others follow latravant
+alias follwhm send @others follow altanassorrow
+alias follrg send @others follow iamarealgirl
+alias follbrd send @others follow promathiasbard
+alias follgeo send @others follow yuckfou
+alias invgeo pcmd add yuckfou
+alias invbrd pcmd add promathiasbard
+alias invwhm pcmd add altanassorrow
+alias invv pcmd add layshpoljah
+alias invlat pcmd add latravant
+alias invrg pcmd add iamarealgirl
+alias d2all send layshpoljah /ma "warp ii" iamarealgirl; wait 10; send layshpoljah /ma "warp ii" latravant; wait 10; send layshpoljah /ma "warp ii" altanassorrow; wait 10; send layshpoljah /ma "warp ii" promathiasbard; wait 10; send layshpoljah /ma "warp ii" yuckfou; wait 7; send layshpoljah /ma "warp" layshpoljah
+alias retraceall send layshpoljah /ma "retrace" iamarealgirl; wait 10; send layshpoljah /ma "retrace" latravant; wait 10; send layshpoljah /ma "retrace" altanassorrow; wait 10; send layshpoljah /ma "retrace" promathiasbard; wait 10; send layshpoljah /ma "retrace" yuckfou; wait 7; send layshpoljah /ma "warp" layshpoljah
+alias mea send altanassorrow /ma "teleport-mea" altanassorrow
+alias holla send altanassorrow /ma "teleport-holla" altanassorrow
+alias dem send altanassorrow /ma "teleport-dem" altanassorrow
+alias altepa send altanassorrow /ma "teleport-altep" altanassorrow
+alias vahzl send altanassorrow /ma "teleport-vahzl" altanassorrow
+alias yhoat send altanassorrow /ma "teleport-yhoat" altanassorrow
+alias mountall send @all mount raptor
+alias dismountall send @all /dismount
+alias terminateall send @all terminate
+alias d2 /ma "warp ii" <stpt>
+alias d1 /ma "warp" <me>
+//Sets ConsoleBG Background Position
+consolebg position 15 50
+
+// *** ALLIANCE TARGET KEYS ***
+// This lets you push Alt+F1-6 and Ctrl+F1-6 to  to target Alliance members.
+bind ^f1 input /ta <a10>
+bind ^f2 input /ta <a11>
+bind ^f3 input /ta <a12>
+bind ^f4 input /ta <a13>
+bind ^f5 input /ta <a14>
+bind ^f6 input /ta <a15>
+bind !f1 input /ta <a20>
+bind !f2 input /ta <a21>
+bind !f3 input /ta <a22>
+bind !f4 input /ta <a23>
+bind !f5 input /ta <a24>
+bind !f6 input /ta <a25>
+bind ^t sat allattack
+bind !t sat allcommand disengage
+
+//NEXTGames Edits:
+lua load FastFollow
+lua load superwarp
+lua load repeater
+lua load skillchains
+lua load sendalltarget
+FrameRateDivisor 1
+// du blinking all all on
+// lua load XIPivot
+// Pivot a XI-View
+// Pivot a FFXI-HD
+lua load equipviewer
+sb visible
+equipviewer pos 1650 748
+// wait 30
+// config FrameRateDivisor 1
+mouse_blockinput 1
