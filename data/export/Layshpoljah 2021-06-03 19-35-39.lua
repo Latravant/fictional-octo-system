@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Lathi", augments={'MP+80','INT+20','"Mag.Atk.Bns."+20',}},
+    sub="Dilet.'s Grip +1",
+    ammo="Hasty Pinion +1",
+    head={ name="Merlinic Hood", augments={'Crit.hit rate+4','INT+10','Accuracy+2 Attack+2','Mag. Acc.+8 "Mag.Atk.Bns."+8',}},
+    body={ name="Merlinic Jubbah", augments={'STR+7','"Fast Cast"+2','Magic Damage +7','Accuracy+15 Attack+15','Mag. Acc.+17 "Mag.Atk.Bns."+17',}},
+    hands="Jhakri Cuffs +2",
+    legs="Mallquis Trews +2",
+    feet={ name="Merlinic Crackows", augments={'Pet: DEX+5','Crit.hit rate+2','Accuracy+1 Attack+1','Mag. Acc.+20 "Mag.Atk.Bns."+20',}},
+    neck="Asperity Necklace",
+    waist="Olseni Belt",
+    left_ear="Steelflash Earring",
+    right_ear="Bladeborn Earring",
+    left_ring="Chirich Ring",
+    right_ring="Chirich Ring",
+    back="Solemnity Cape",
+}

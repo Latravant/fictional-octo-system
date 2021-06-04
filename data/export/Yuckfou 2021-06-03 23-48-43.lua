@@ -1,0 +1,15 @@
+sets.exported={
+    main={ name="Solstice", augments={'Mag. Acc.+20','Pet: Damage taken -4%','"Fast Cast"+5',}},
+    range={ name="Dunna", augments={'MP+18','Mag. Acc.+9','"Fast Cast"+2',}},
+    head="Azimuth Hood",
+    body={ name="Bagua Tunic", augments={'Enhances "Bolster" effect',}},
+    hands="Geomancy Mitaines",
+    legs={ name="Bagua Pants", augments={'Enhances "Mending Halation" effect',}},
+    feet="Azimuth Gaiters",
+    neck="Deceiver's Torque",
+    waist="Witful Belt",
+    left_ear="Fulla Earring",
+    right_ear="Gna Earring",
+    right_ring="Renaye Ring",
+    back={ name="Nantosuelta's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','Pet: "Regen"+10','Pet: Damage taken -5%',}},
+}

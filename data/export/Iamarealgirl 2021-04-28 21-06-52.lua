@@ -1,0 +1,15 @@
+sets.exported={
+    ammo="Hasty Pinion +1",
+    head="Jhakri Coronal +2",
+    body="Jhakri Robe +2",
+    hands={ name="Despair Fin. Gaunt.", augments={'STR+12','VIT+7','Haste+2%',}},
+    legs={ name="Herculean Trousers", augments={'Crit.hit rate+2','STR+7','Weapon skill damage +5%','Accuracy+18 Attack+18',}},
+    feet={ name="Rawhide Boots", augments={'STR+10','Attack+15','"Store TP"+5',}},
+    neck="Caro Necklace",
+    waist="Grunfeld Rope",
+    left_ear="Telos Earring",
+    right_ear="Odr Earring",
+    left_ring="Ifrit Ring",
+    right_ring="Petrov Ring",
+    back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Attack+10','Weapon skill damage +10%','System: 1 ID: 640 Val: 4',}},
+}

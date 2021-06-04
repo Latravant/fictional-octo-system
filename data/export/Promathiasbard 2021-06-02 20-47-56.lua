@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Skinflayer", augments={'Mag. Acc.+12','AGI+7','Crit. hit damage +1%','DMG:+15',}},
+    sub={ name="Kali", augments={'DMG:+15','CHR+15','Mag. Acc.+15',}},
+    range="Gjallarhorn",
+    head={ name="Chironic Hat", augments={'"Store TP"+1','"Fast Cast"+2','Crit.hit rate+1','Mag. Acc.+13 "Mag.Atk.Bns."+13',}},
+    body={ name="Chironic Doublet", augments={'Pet: "Store TP"+1','"Fast Cast"+3','Mag. Acc.+13 "Mag.Atk.Bns."+13',}},
+    hands={ name="Chironic Gloves", augments={'Crit.hit rate+1','Mag. Acc.+23','Mag. Acc.+17 "Mag.Atk.Bns."+17',}},
+    legs="Limbo Trousers",
+    feet={ name="Chironic Slippers", augments={'Sklchn.dmg.+1%','"Dbl.Atk."+3','Accuracy+13 Attack+13','Mag. Acc.+18 "Mag.Atk.Bns."+18',}},
+    neck="Bard's Charm",
+    waist="Witful Belt",
+    left_ear="Allegro Earring",
+    right_ear="Eabani Earring",
+    left_ring="Chirich Ring",
+    right_ring="Chirich Ring",
+    back="Radical Mantle",
+}

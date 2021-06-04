@@ -1,0 +1,16 @@
+sets.exported={
+    main="Mafic Cudgel",
+    sub="Genmei Shield",
+    ammo="Staunch Tathlum",
+    head={ name="Vanya Hood", augments={'MP+50','"Cure" potency +7%','Enmity-6',}},
+    body="Shamash Robe",
+    hands="Mallquis Cuffs +2",
+    legs="Mallquis Trews +2",
+    feet="Mallquis Clogs +2",
+    neck="Twilight Torque",
+    waist="Witful Belt",
+    left_ear="Colossus's Earring",
+    left_ring="Defending Ring",
+    right_ring="Chirich Ring",
+    back="Solemnity Cape",
+}

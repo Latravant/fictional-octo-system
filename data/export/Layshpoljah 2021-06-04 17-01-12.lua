@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Lathi", augments={'MP+80','INT+20','"Mag.Atk.Bns."+20',}},
+    sub="Elder's Grip +1",
+    ammo="Erlene's Notebook",
+    head="Jhakri Coronal +2",
+    body="Jhakri Robe +2",
+    hands="Jhakri Cuffs +2",
+    legs="Jhakri Slops +2",
+    feet="Jhakri Pigaches +2",
+    neck="Sanctity Necklace",
+    waist="Hachirin-no-Obi",
+    left_ear="Barkaro. Earring",
+    right_ear="Friomisi Earring",
+    left_ring="Shiva Ring +1",
+    right_ring="Shiva Ring +1",
+    back={ name="Taranus's Cape", augments={'INT+10','Mag. Acc+10 /Mag. Dmg.+10','Magic Damage +10','"Mag.Atk.Bns."+10','Spell interruption rate down-10%',}},
+}

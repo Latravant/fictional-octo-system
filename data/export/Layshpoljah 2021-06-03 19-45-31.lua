@@ -1,0 +1,15 @@
+sets.exported={
+    main={ name="Nibiru Staff", augments={'Pet: Mag. Acc.+20','Pet: "Mag.Atk.Bns."+20','Pet: "Regen"+2',}},
+    ammo="Impatiens",
+    head={ name="Merlinic Hood", augments={'Crit.hit rate+4','INT+10','Accuracy+2 Attack+2','Mag. Acc.+8 "Mag.Atk.Bns."+8',}},
+    body="Mallquis Saio +2",
+    hands="Mallquis Cuffs +2",
+    legs="Mallquis Trews +2",
+    feet={ name="Merlinic Crackows", augments={'Pet: DEX+5','Crit.hit rate+2','Accuracy+1 Attack+1','Mag. Acc.+20 "Mag.Atk.Bns."+20',}},
+    waist="Witful Belt",
+    left_ear="Enchntr. Earring +1",
+    right_ear="Loquac. Earring",
+    left_ring="Chirich Ring",
+    right_ring="Chirich Ring",
+    back="Swith Cape",
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Almace",
+    sub="Naegling",
+    ammo="Cheruski Needle",
+    head="Aya. Zucchetto +2",
+    body="Ayanmo Corazza +2",
+    hands="Jhakri Cuffs +2",
+    legs={ name="Herculean Trousers", augments={'Crit.hit rate+2','STR+7','Weapon skill damage +5%','Accuracy+18 Attack+18',}},
+    feet="Aya. Gambieras +1",
+    neck="Fotia Gorget",
+    waist="Artful Belt",
+    left_ear="Ishvara Earring",
+    right_ear="Odr Earring",
+    left_ring="Ilabrat Ring",
+    right_ring="Ramuh Ring",
+    back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Attack+10','Weapon skill damage +10%','System: 1 ID: 640 Val: 4',}},
+}

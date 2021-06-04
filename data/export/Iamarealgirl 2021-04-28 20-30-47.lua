@@ -1,0 +1,15 @@
+sets.exported={
+    ammo="Quartz Tathlum +1",
+    head={ name="Herculean Helm", augments={'Attack+5','Weapon skill damage +3%','DEX+4','Accuracy+14',}},
+    body="Vanir Cotehardie",
+    hands="Jhakri Cuffs +2",
+    legs={ name="Herculean Trousers", augments={'Crit.hit rate+2','STR+7','Weapon skill damage +5%','Accuracy+18 Attack+18',}},
+    feet={ name="Herculean Boots", augments={'Weapon skill damage +2%','Pet: Accuracy+28 Pet: Rng. Acc.+28','Quadruple Attack +1',}},
+    neck="Imbodla Necklace",
+    waist="Salire Belt",
+    left_ear="Lifestorm Earring",
+    right_ear="Influx Earring",
+    left_ring="Levia. Ring",
+    right_ring="Karieyh Ring",
+    back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Attack+10','Weapon skill damage +10%','System: 1 ID: 640 Val: 4',}},
+}

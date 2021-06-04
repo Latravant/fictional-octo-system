@@ -1,0 +1,17 @@
+sets.exported={
+    main="Kaja Staff",
+    sub="Enki Strap",
+    ammo="Kalboron Stone",
+    head="Befouled Crown",
+    body={ name="Vanya Robe", augments={'MP+50','"Cure" potency +7%','Enmity-6',}},
+    hands="Regal Cuffs",
+    legs={ name="Arch. Tonban +2", augments={'Increases Elemental Magic debuff time and potency',}},
+    feet="Mallquis Clogs +2",
+    neck="Sorcerer's Stole",
+    waist="Hachirin-no-Obi",
+    left_ear="Barkaro. Earring",
+    right_ear="Vor Earring",
+    left_ring="Jhakri Ring",
+    right_ring="Weather. Ring",
+    back={ name="Taranus's Cape", augments={'INT+10','Mag. Acc+10 /Mag. Dmg.+10','Magic Damage +10','"Mag.Atk.Bns."+10','Spell interruption rate down-10%',}},
+}

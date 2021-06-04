@@ -1,0 +1,15 @@
+sets.exported={
+    ammo="Quartz Tathlum +1",
+    head="Aya. Zucchetto +2",
+    body="Vanir Cotehardie",
+    hands={ name="Telchine Gloves", augments={'Pet: Attack+6 Pet: Rng.Atk.+6','"Avatar perpetuation cost" -4','Pet: Damage taken -1%',}},
+    legs="Gyve Trousers",
+    feet="Skaoi Boots",
+    neck="Imbodla Necklace",
+    waist="Gishdubar Sash",
+    left_ear="Lifestorm Earring",
+    right_ear="Influx Earring",
+    left_ring="Levia. Ring",
+    right_ring="Menelaus's Ring",
+    back="Solemnity Cape",
+}

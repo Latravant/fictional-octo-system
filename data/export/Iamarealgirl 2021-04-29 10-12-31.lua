@@ -1,0 +1,15 @@
+sets.exported={
+    ammo="Ghastly Tathlum",
+    head="Jhakri Coronal +2",
+    body="Jhakri Robe +2",
+    hands="Jhakri Cuffs +2",
+    legs="Jhakri Slops +2",
+    feet="Jhakri Pigaches +2",
+    neck="Sanctity Necklace",
+    waist="Acuity Belt",
+    left_ear="Hecate's Earring",
+    right_ear="Friomisi Earring",
+    left_ring="Shiva Ring",
+    right_ring="Shiva Ring",
+    back={ name="Cornflower Cape", augments={'MP+15','DEX+2','Accuracy+3','Blue Magic skill +10',}},
+}
